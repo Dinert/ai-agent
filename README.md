@@ -32,7 +32,7 @@ cp .env.example .env
 npm run dev
 ```
 
-后端地址：http://localhost:3001
+后端地址：http://localhost:3008
 
 ### 2. 启动前端
 
@@ -42,7 +42,7 @@ npm install
 npm run dev
 ```
 
-前端地址：http://localhost:5173
+前端地址：http://localhost:5178
 
 ### 3. 启用 AI 回答（可选）
 
